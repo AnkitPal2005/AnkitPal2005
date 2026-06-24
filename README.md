@@ -94,7 +94,13 @@ Professional responsive landing page implementation.
 </p>
 
 ---
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnkitPal2005/AnkitPal2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ## 📫 Connect With Me
 
 📧 Email: **ap7023278@gmail.com**
