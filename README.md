@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Pal</h1>
 
-<!--
-**AnkitPal2005/AnkitPal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack .NET Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💼 Software Developer
+- 🌱 Currently learning ASP.NET Core, Angular & Software Architecture
+- 🏗️ Building real-world web applications
+- 💻 Passionate about backend development and clean code
+- ⚡ Always learning new technologies
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- C#
+- Dapper
+- Entity Framework Core
+
+#### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Angular
+- Bootstrap
+
+#### Database
+- SQL Server
+- PostgreSQL
+- MongoDb
+
+#### Tools
+- Git
+- GitHub
+- Visual Studio
+- VS Code
+
+---
+
+### 📌 Featured Projects
+
+- Employee Asset Management System
+- Typing Speed Test
+- Portfolio Website
+- Homigo Landing Page
+
+---
+
+### 📫 Connect With Me
+
+📧 Email: ap7023278@gmail.com
+
+⭐ Thanks for visiting my profile!
